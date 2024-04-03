@@ -9,32 +9,6 @@
     <h3 align="center">Сколько животных скрывается в саванне</h3>
  </div>
 
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>МЕНЮ</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">О проекте</a>
-      <ul>
-        <li><a href="#built-with">Создан с помощью</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Начало работы</a>
-      <ul>
-               <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Применение</a></li>
-    <li><a href="#license">Лицензия</a></li>
-    <li><a href="#contact">Контакт</a></li>
-      </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## О проекте
 
@@ -45,8 +19,6 @@
 Наслаждайтесь игрой и удачи в угадывании числа! 🦁🦓🌿
 Используйте `BLANK_README.md` для начала работы.
 
-<p align="right">(<a href="#readme-top">возврат</a>)</p>
-
 
 ### Создан с помощью
 
@@ -54,9 +26,6 @@
 * <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=whait"/>
 * <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=whait"/>
 * <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=whait"/>
-
-
-<p align="right">(<a href="#readme-top">возврат</a>)</p>
 
 
 <!-- GETTING STARTED -->
@@ -67,14 +36,13 @@
 2. Откройте файл index.html в любом современном веб-браузере.
 3. Начните игру, следуя инструкциям на экране.
 
+
 ### Installation
 
 1. Clone the repo
    ```sh
    git clone https://github.com/Aleks1962andr/africa.git
    ```
-
-<p align="right">(<a href="#readme-top">возврат</a>)</p>
 
 
 <!-- USAGE EXAMPLES -->
@@ -98,16 +66,11 @@
 
 6.Попытайтесь угадать число за минимальное количество ходов и победите в игре!
 
-<p align="right">(<a href="#readme-top">возврат</a>)</p>
-
 
 <!-- LICENSE -->
 ## Лицензия
 
 Учебная программа. Свободное распространение.
-
-<p align="right">(<a href="#readme-top">возврат</a>)</p>
-
 
 
 <!-- CONTACT -->
@@ -117,4 +80,3 @@
 
 Ссылка на проект: [Task Scheduler](https://github.com/Aleks1962andr/africa.git)
 
-<p align="right">(<a href="#readme-top">возврат</a>)</p>
