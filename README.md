@@ -78,5 +78,5 @@
 
 Имя - [Aleks1962andr](https://linkedin.com/in/alexander-andreev-5964902b8)  
 
-Ссылка на проект: [Task Scheduler](https://github.com/Aleks1962andr/africa.git)
+Ссылка на проект: [Africa](https://github.com/Aleks1962andr/africa.git)
 
