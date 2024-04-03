@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## О проекте
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/Aleks1962andr/delt-hub/blob/main/ekran.jpg)
+[[Скриншот игры]](https://github.com/Aleks1962andr/africa/blob/main/wid1.jpg)
 
 This project is a simple task scheduler built using React. It allows users to plan their tasks for the day or multiple days by inputting the task into the input window. The entered tasks are added to a common array of tasks and displayed in a list with numbering as "Task №(sequential number)". The functionality includes marking a task as completed by clicking on the "Task №" word, and deleting a task by clicking on the delete icon. Pressing enter without filling the input does not result in an empty line being added to the array. Additionally, the program includes a feature to track and display the date, day of the week, and time.
 
@@ -86,7 +86,9 @@ To get a local copy up and running follow these simple example steps:
 <!-- USAGE EXAMPLES -->
 ## Применение
 
-![Image alt](
+[[число меньше]](https://github.com/Aleks1962andr/africa/blob/main/wid2.jpg)
+[[число больше]](https://github.com/Aleks1962andr/africa/blob/main/wid3.jpg)
+[[число угадано]](https://github.com/Aleks1962andr/africa/blob/main/wid4.jpg)
 This project is a simple task scheduler. It allows users to plan their tasks for the day or multiple days by inputting the task into the input window. 
 
 <p align="right">(<a href="#readme-top">возврат</a>)</p>
