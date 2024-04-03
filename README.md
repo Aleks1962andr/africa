@@ -40,9 +40,10 @@
 
 [Скриншот игры](https://github.com/Aleks1962andr/africa/blob/main/wid1.jpg") 
 
-This project is a simple task scheduler built using React. It allows users to plan their tasks for the day or multiple days by inputting the task into the input window. The entered tasks are added to a common array of tasks and displayed in a list with numbering as "Task №(sequential number)". The functionality includes marking a task as completed by clicking on the "Task №" word, and deleting a task by clicking on the delete icon. Pressing enter without filling the input does not result in an empty line being added to the array. Additionally, the program includes a feature to track and display the date, day of the week, and time.
-
-Use the `BLANK_README.md` to get started.
+"Сколько животных скрывается в саванне" - простая и увлекательная игра для детей и взрослых!
+Игра, основанная на принципе угадывания числа, сгенерированного компьютером.
+Наслаждайтесь игрой и удачи в угадывании числа! 🦁🦓🌿
+Используйте `BLANK_README.md` для начала работы.
 
 <p align="right">(<a href="#readme-top">возврат</a>)</p>
 
