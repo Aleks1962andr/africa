@@ -62,23 +62,16 @@
 <!-- GETTING STARTED -->
 ## Начало работы
 
-To get a local copy up and running follow these simple example steps:
-1. Clone the repository.
-2. Navigate to the project directory.
-3. Run npm install to install dependencies.
-4. Run npm start to start the development server.
-5. Access the application in your browser at http://localhost:3000.
-
+Чтобы запустить локальную копию, выполните следующие простые шаги::
+1. Склонируйте репозиторий на свой компьютер.
+2. Откройте файл index.html в любом современном веб-браузере.
+3. Начните игру, следуя инструкциям на экране.
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Aleks1962andr/delt-hub.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
+   git clone https://github.com/Aleks1962andr/africa.git
    ```
 
 <p align="right">(<a href="#readme-top">возврат</a>)</p>
@@ -87,10 +80,23 @@ To get a local copy up and running follow these simple example steps:
 <!-- USAGE EXAMPLES -->
 ## Применение
 
-[[число меньше]](https://github.com/Aleks1962andr/africa/blob/main/wid2.jpg)
-[[число больше]](https://github.com/Aleks1962andr/africa/blob/main/wid3.jpg)
-[[число угадано]](https://github.com/Aleks1962andr/africa/blob/main/wid4.jpg)
-This project is a simple task scheduler. It allows users to plan their tasks for the day or multiple days by inputting the task into the input window. 
+1.Компьютер загадывает случайное число от 1 до 20.
+
+2.Вам предоставляется 5 попыток, чтобы угадать загаданное число.
+
+3.Введите вашу догадку в предоставленное поле ввода и нажмите кнопку "Играть".
+
+4.В зависимости от вашего ответа, вы получите подсказку:
+   
+**"Выберите число поменьше"** <img src="https://github.com/Aleks1962andr/africa/blob/main/wid2.jpg" alt="Скриншот игры" width="300px" >
+
+**"Выберите число побольше"** <img src="https://github.com/Aleks1962andr/africa/blob/main/wid3.jpg" alt="Скриншот игры" width="300px" >
+
+**"Вы угадали"** или **"Вы проиграли"** <img src="https://github.com/Aleks1962andr/africa/blob/main/wid4.jpg" alt="Скриншот игры" width="300px" > 
+
+5.При каждом ответе у вас будет меньше попыток, и это будет отображаться на экране.
+
+6.Попытайтесь угадать число за минимальное количество ходов и победите в игре!
 
 <p align="right">(<a href="#readme-top">возврат</a>)</p>
 
