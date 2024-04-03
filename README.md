@@ -6,7 +6,7 @@
   </a>
 
   <h3 align="center">Детская игра</h3>
-  <h3 align="center">Сколько животных скрывается в саванне</h3>
+    <h3 align="center">Сколько животных скрывается в саванне</h3>
  </div>
 
 
@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## О проекте
 
-[[Скриншот игры]](<img src="https://github.com/Aleks1962andr/africa/blob/main/wid1.jpg" width="300px" />
+[Скриншот игры](https://github.com/Aleks1962andr/africa/blob/main/wid1.jpg") 
 
 This project is a simple task scheduler built using React. It allows users to plan their tasks for the day or multiple days by inputting the task into the input window. The entered tasks are added to a common array of tasks and displayed in a list with numbering as "Task №(sequential number)". The functionality includes marking a task as completed by clicking on the "Task №" word, and deleting a task by clicking on the delete icon. Pressing enter without filling the input does not result in an empty line being added to the array. Additionally, the program includes a feature to track and display the date, day of the week, and time.
 
