@@ -86,6 +86,7 @@ To get a local copy up and running follow these simple example steps:
 <!-- USAGE EXAMPLES -->
 ## Применение
 
+![Image alt](
 This project is a simple task scheduler. It allows users to plan their tasks for the day or multiple days by inputting the task into the input window. 
 
 <p align="right">(<a href="#readme-top">возврат</a>)</p>
